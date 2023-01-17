@@ -14,7 +14,7 @@ function Post(props) {
                 </div>
                 <span className="postTitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 </span>
-
+                {/* Just a comment */}
             </div>
         </div>
     );

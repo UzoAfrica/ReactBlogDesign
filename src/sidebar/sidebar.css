@@ -50,8 +50,10 @@
     margin-top: 15px;
     cursor: pointer;
 }
-.sideImg{
-    size: 30%;
+.sidebarImg{
+        width: 50%; /* The width of the image will be half of its original size */
+        height: 50%; /* The height of the image will be half of its original size */
+    
 }
 
 .sidebarSocial{

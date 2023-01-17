@@ -7,8 +7,9 @@ function Sidebar(props) {
         <div className="sidebar">
                 <div className="sidebarItem">
                     <span className="sidebarTitle"> ABOUT ME</span>
+                    <hr />
                     <img 
-                    className= "sideImg"
+                    className= "sidebarImg"
                     src="https://jenmulligandesign.com/wp-content/uploads/2017/04/unsplash-free-stock-photos-download.jpg" alt="" />
 
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus eligendi 
@@ -18,7 +19,7 @@ function Sidebar(props) {
                 <div className="sidebarItem">
                     <span className="sidebarTitle">CATEGOIES</span>
                     <ul>
-                        <li className="sidebarListItem">Life</li>
+                        <li className="sidebarListItem">Lifed</li>
                         <li className="sidebarListItem">Music</li>
                         <li className="sidebarListItem">Style</li>
                         <li className="sidebarListItem">Sport</li>

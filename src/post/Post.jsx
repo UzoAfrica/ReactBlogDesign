@@ -1,4 +1,5 @@
 import React from 'react';
+import "./post.css";
 
 function Post(props) {
     return (
@@ -14,7 +15,8 @@ function Post(props) {
                 </div>
                 <span className="postTitle">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 </span>
-                {/* Just a comment */}
+                <hr />
+                <div className="postDate">1 hour ago</div>
             </div>
         </div>
     );
